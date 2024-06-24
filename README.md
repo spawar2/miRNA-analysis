@@ -1,4 +1,4 @@
-# miRNA-analysis collaboration with Dr. Christain, University of Barcelona https://www.ub.edu/farmaco/en/pharmacognosy/research/neuropharmacology_in_aging_and_neurodegeneration/6/
+# miRNA-analysis collaboration with Dr. Christain, University of Barcelona, Spain. https://www.ub.edu/farmaco/en/pharmacognosy/research/neuropharmacology_in_aging_and_neurodegeneration/6/
 <img width="431" alt="Data brief" src="https://github.com/spawar2/miRNA-analysis/assets/25118302/516c18c6-2c87-45ec-9d7b-1293085a7bdd">
 
 [R: DESeq2, tidyverse]
