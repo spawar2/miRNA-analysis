@@ -6,3 +6,5 @@ Elsevier Data in Brief. [Paper Link:](https://www.sciencedirect.com/science/arti
 <img width="579" alt="Screenshot 2023-05-17 at 10 30 50 AM" src="https://github.com/spawar2/miRNA-analysis/assets/25118302/acbc7f91-f3da-4286-a4d0-aed62e716285">
 Georgia State University, Atlanta, USA.
 https://csds.gsu.edu/
+
+deseq.R: MiRNAMicro ribonucleic acid data sequencing headcount read, DESeq differential expression analysis, Mean-Average MA Plotting the expression, Kegg enrichment analysis.
