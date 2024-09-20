@@ -8,3 +8,4 @@ Georgia State University, Atlanta, USA.
 https://csds.gsu.edu/
 
 deseq.R: MiRNAMicro ribonucleic acid data sequencing headcount read, DESeq differential expression analysis, Mean-Average MA Plotting the expression, Kegg enrichment analysis.
+selected function(as.data.frame, DESeqDataSetFromMatrix, results, tbl_df, sizeFactors, dispersions, names, DESeq)
