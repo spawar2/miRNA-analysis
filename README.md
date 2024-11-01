@@ -6,6 +6,6 @@ Elsevier Data in Brief. [Paper Link:](https://www.sciencedirect.com/science/arti
 <img width="579" alt="Screenshot 2023-05-17 at 10 30 50 AM" src="https://github.com/spawar2/miRNA-analysis/assets/25118302/acbc7f91-f3da-4286-a4d0-aed62e716285">
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
-
+RNA-seq and miRNA-seq data from pharmacological inhibition of the G9a/GLP histone methyltransferase complex with UNC0642 in SAMP8 mice, Shrikant Pawar, AinaBellver-Sanchis, ChristianGriñán-Ferré, Publication: Elsevier Data in Brief (Publication date: May 3), collaboration with Dr. ChristianGriñán-Ferré, University of Barcelona, Spain, IF=1.38, Github, Article link ^^^ DOI: https://doi.org/10.1016/j.dib.2021.107114, Issue, Volume: 36, Pages: 107114.
 deseq.R: MiRNAMicro ribonucleic acid data sequencing headcount read, DESeq differential expression analysis, Mean-Average MA Plotting the expression, Kegg enrichment analysis.
 selected function(as.data.frame, DESeqDataSetFromMatrix, results, tbl_df, sizeFactors, dispersions, names, DESeq).
